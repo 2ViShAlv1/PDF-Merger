@@ -5,7 +5,7 @@ A simple Python script to merge multiple PDF files into one using PyPDF2. Ideal 
 - Merge unlimited PDF files
 - Lightweight and fast
 - Easy command-line interface
-- 
+
 ## 📦 Requirements
 - Python 3.x
 - PyPDF2
