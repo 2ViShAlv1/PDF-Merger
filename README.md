@@ -10,43 +10,26 @@ A simple Python script to merge multiple PDF files into one using PyPDF2. Ideal 
 - Python 3.x
 - PyPDF2
 
+### 🛠️ How to Run the Code
 
----
+1. Make sure you have **Python 3** installed on your system.
 
-### 5. **How to Use / Run**
-Step-by-step guide to run the project.
+2. Install the required library using pip:
 
-```markdown
-## 🛠️ How to Run
+    ```bash
+    pip install PyPDF2
+    ```
 
-1. Clone or download the repo
-2. Place PDF files in the same folder
-3. Run the script:
+3. Place the `pdf_merger.py` script and all the PDF files you want to merge in the **same folder**.
 
-```bash
-python pdf_merger.py
+4. Open a terminal or command prompt in that folder.
 
----
+5. Run the script:
 
-### 6. **Example Output**
-Show how it works when run.
+    ```bash
+    python pdf_merger.py
+    ```
 
-```markdown
-## 📋 Example
+6. Enter the number of PDF files and their filenames when prompted.
 
-```bash
-Enter the number of pdf's you want to merge: 2
-Enter the name of pdf 1: file1.pdf
-Enter the name of pdf 2: file2.pdf
-
-
-### 8. **Author Info**
-Tell people who made it.
-
-```markdown
-## 👤 Author
-
-**Your Name**  
-GitHub:2ViShAlv1   
-LinkedIn: www.linkedin.com/in/vishal-verma-6a99a5328
-
+7. ✅ A new file named `mergedpdf.pdf` will be created in the same folder.
